@@ -11,7 +11,7 @@ Visual Studio Code backed by high performance VMs that start in seconds.
 >[Overview](https://docs.github.com/en/codespaces/overview)  
 Learn about GitHub Codespaces.
 
->[Quickstart](https://docs.github.com/en/codespaces/getting-started/quickstar)  
+>[Quickstart](https://docs.github.com/en/codespaces/getting-started/quickstart)  
 Getting GitHub Codespaces up and running quickly and easily.
 
 >[Documentation](https://docs.github.com/en/codespaces)  
